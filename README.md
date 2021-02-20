@@ -1,8 +1,7 @@
 # IPOs Analysis
 
 A analysis of the IPOs of the Brazil Stock Exchange (B3) from 2004 to 2020.
-
-![]('https://github.com/paulooctavio/dividends-calendar/blob/main/images/cei.jpeg')
+<img src="https://github.com/paulooctavio/ipos-analysis/blob/master/images/b3.jpeg">
 
 ## Data Sources
 
